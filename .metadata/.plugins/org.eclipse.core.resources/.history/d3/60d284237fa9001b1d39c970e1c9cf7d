@@ -1,0 +1,5 @@
+package com.sliit.mtit.microservice.orderservice.contriller;
+
+public class OrderControler {
+
+}

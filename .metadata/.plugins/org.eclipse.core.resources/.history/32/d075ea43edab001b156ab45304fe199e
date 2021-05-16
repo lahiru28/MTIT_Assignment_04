@@ -1,0 +1,5 @@
+package com.sliit.mtit.microservice.orderservice.service;
+
+public class OrderServiceImpl {
+
+}
